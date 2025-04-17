@@ -998,8 +998,8 @@ button:focus,
 input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
-  background-color: #c2c2c2;
-  border-color: #c2c2c2;
+  background-color: #eae0d5;
+  border-color: #eae0d5;
   color: #000000;
   outline: 0;
 }
@@ -3614,7 +3614,7 @@ html.no-csstransitions .home-content__main {
   font-size: 1.2rem;
   font-weight: 900;
   display: inline-block;
-  color: #f8f5f2;
+  color: #7b5e57;
   margin-right: 18px;
 }
 
