@@ -1,0 +1,26 @@
+.hero {
+    background-color: #f8f5f2;
+    padding: 5rem 1rem;
+    text-align: center;
+  }
+  .features {
+    padding: 3rem 1rem;
+  }
+  .cta {
+    background-color: #eae0d5;
+    padding: 3rem 1rem;
+    text-align: center;
+  }
+  .feature-icon {
+    font-size: 3rem;
+    color: #7b5e57;
+    text-align: center;
+  }
+
+  .s-about-how .container .row {
+    margin-top: 2rem;
+  }
+
+  .s-about-how h5 {
+    margin-top: 0;
+  }
